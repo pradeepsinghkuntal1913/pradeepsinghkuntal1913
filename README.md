@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Pradeep Singh</h1>
 
 <p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ozcmE4OXd0cmlhaG93bXZ2Zmhjcm8xa2J6NmU3anVzbTBvYmZqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJzOHduemI5ZzgwNTN0YXc1djVtZndlOGdjMzZnbWJiYm53NDl6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ViQb3BY5WQNQiQJd90/giphy.gif" width="250" />
 </p>
 
 ---
