@@ -1,12 +1,14 @@
-<!-- 🌟 Modern Neon + Animated GitHub Profile README 🌟 -->
+<table>
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Pradeep Singh</h1>
+    </td>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3EydmE4cTA4dWRyM3gzcjI1b3lueXlyc3JhaG9keDV3MGJvb3F5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3JDLY0bJA5N6TLqM/giphy.gif" width="260" />
+    </td>
+  </tr>
+</table>
 
-<h1 align="left">Hi 👋, I'm Pradeep Singh</h1>
-
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJzOHduemI5ZzgwNTN0YXc1djVtZndlOGdjMzZnbWJiYm53NDl6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ViQb3BY5WQNQiQJd90/giphy.gif" width="250" />
-</p>
-
----
 
 ## 🌌 About Me
 🔥 Passionate Developer | 🎓 BTech CSE  
