@@ -13,7 +13,6 @@
 ## 🌌 About Me
 🔥 Passionate Developer | 🎓 BTech CSE  
 💻 Learning **Java, DSA, Web Development**  
-🎯 Preparing for **CDS & SSB**  
 ⚡ Love building projects & exploring backend  
 🏀 Basketball keeps me active  
 
