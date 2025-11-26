@@ -1,13 +1,11 @@
-<table>
-  <tr>
-    <td>
-      <h1>Hi 👋, I'm Pradeep Singh</h1>
-    </td>
-    <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3EydmE4cTA4dWRyM3gzcjI1b3lueXlyc3JhaG9keDV3MGJvb3F5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3JDLY0bJA5N6TLqM/giphy.gif" width="260" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradeepsinghkuntal1913/pradeepsinghkuntal1913/main/banner.png" 
+       width="100%" 
+       style="max-height: 250px; object-fit: cover;" 
+       alt="Hi, I'm Pradeep Kuntal Banner"/>
+</p>
+
+
 
 
 ## 🌌 About Me
