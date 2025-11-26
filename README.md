@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradeepsinghkuntal1913/pradeepsinghkuntal1913/main/banner.png" 
-       width="100%" 
-       style="max-height: 250px; object-fit: cover;" 
-       alt="Hi, I'm Pradeep Kuntal Banner"/>
+  <img 
+    src="https://raw.githubusercontent.com/pradeepsinghkuntal1913/pradeepsinghkuntal1913/main/banner2.png"
+    alt="Hi, I'm Pradeep Kuntal Banner"
+    style="width: 100%; max-height: 140px; object-fit: cover; border-radius: 10px;"
+  />
 </p>
+
 
 
 
